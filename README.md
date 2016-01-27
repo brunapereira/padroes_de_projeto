@@ -1,3 +1,5 @@
 # Padrões de Projeto
 
-### Simple Factory
+### Factory
+Simple Factory
+Factory Method
